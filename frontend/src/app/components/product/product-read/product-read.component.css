@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+}
+
+i.edit{
+    color: grey;
+}
+
+i.delete{
+    color: grey;
+}
+i.edit:hover {
+    color: orange;
+    
+}
+
+i.delete:hover {
+    color: #e35e6b;
+}
+
+i{
+    margin-right: 10px;
+}
+

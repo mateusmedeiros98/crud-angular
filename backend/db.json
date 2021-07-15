@@ -1,19 +1,19 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Galaxy S9",
-            "price": 1800.12
-        },
-        {
-            "id": 2,
-            "name": "MacBook Pro",
-            "price": 1200.00
-        },
-        {
-            "id": 3,
-            "name": "Galaxy 20",
-            "price": 5000.00
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Galaxy S9",
+      "price": 1800.12
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro",
+      "price": 1200
+    },
+    {
+      "id": 3,
+      "name": "Galaxy 20",
+      "price": 5000
+    }
+  ]
 }
