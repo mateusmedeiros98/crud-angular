@@ -31,7 +31,7 @@ import { MatSortModule } from '@angular/material/sort'
 
 import {HttpClientModule} from '@angular/common/http';
 import { ProductReadComponent } from './components/product/product-read/product-read.component';
-import { ProductRead2Component } from './components/product/product-read2/product-read2.component';
+
 import { ProductUpdateComponent } from './components/product/product-update/product-update.component';
 import { ProductDeleteComponent } from './components/product/product-delete/product-delete.component';
 
@@ -49,7 +49,6 @@ import { ProductDeleteComponent } from './components/product/product-delete/prod
     ProductCrudComponent,
     ProductCreateComponent,
     ProductReadComponent,
-    ProductRead2Component,
     ProductUpdateComponent,
     ProductDeleteComponent
   ],

@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Galaxy S8",
-      "price": 1800.12
+      "price": "1800.12"
     },
     {
       "id": 2,
       "name": "MacBook Pro",
-      "price": 1200
+      "price": "12000.00"
     },
     {
       "id": 3,
